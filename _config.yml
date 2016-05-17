@@ -5,28 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-code {
-    border: 1px solid {{ page.border }};
-    background-color: {{ page.backA }};
-}
-
-pre {
-    border: 1px solid {{ page.border }};
-    background-color: {{ page.backA }};
-    padding: 3px;
-    margin-left: 1em;
-}
-
-pre code {
-    border: none;
-    background-color: {{ page.backA }};
-}
-
-blockquote {
-    border: 1px dashed {{ page.border }};
-    background-color: {{ page.backC }};
-    padding: 0 0 0 0.5em;
-}
+background-color: {{page.foreB}};
 
 # Site settings
 title: Go Pats!!!
