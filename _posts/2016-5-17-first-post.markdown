@@ -6,9 +6,8 @@ categories: post
 ---
 
 <html>
-body {
-  background-color: lightblue
-}
+<body style="background-color:lightgrey;">
+</body>
 </html>
 Below you will notice a picture of Saint Thomas of San Mateo (just for fun, it has nothing to do with this blog).
 
