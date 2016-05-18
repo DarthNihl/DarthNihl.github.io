@@ -8,14 +8,14 @@
 background-color: {{page.BLACK}};
 
 # Site settings
-title: Go Pats!!!
-email: gopats@pats.com
+title: My Star Wars
+email: N/A
 description: > # this means to ignore newlines until "baseurl:"
-  This site supports the New England Patriots and everything they do.
+  This site is my small head cannon for an alternate universe somewhere during the old republic.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: gopatsrb
-github_username:  gopats
+twitter_username: N/A
+github_username:  N/A
 
 # Build settings
 markdown: kramdown
