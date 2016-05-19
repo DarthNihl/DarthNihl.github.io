@@ -16,8 +16,8 @@ Below you will notice four pictures of Vanderbilt.
 </section>
 
 <section>
-<Vanderbilt mansion>
-<Vanderbilt Campus>
+Vanderbilt mansion
+Vanderbilt Campus
 </section>
 
 <section>
@@ -26,8 +26,8 @@ Below you will notice four pictures of Vanderbilt.
 </section>
 
 <section>
-<Nashville as seen from vanderbilt>
-<Kirkland clock tower>
+Nashville as seen from vanderbilt
+Kirkland clock tower
 </section>
 
 </body>
