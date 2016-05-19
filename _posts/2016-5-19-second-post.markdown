@@ -12,12 +12,16 @@ Below you will notice four pictures of Vanderbilt.
 
 <section>
     <img width="300" src="https://cloud.githubusercontent.com/assets/19412094/15398515/ea4c2af6-1db1-11e6-9b0c-48a9257b21c9.JPG">
+    Vanderbilt Mansion
     <img width="300" src="https://cloud.githubusercontent.com/assets/19412094/15398537/0008f298-1db2-11e6-880c-aaef0f31bc37.JPG">
+    Vanderbilt Campus
 </section>
 
 <section>
     <img width="300" src="https://cloud.githubusercontent.com/assets/19412094/15398539/001bb69e-1db2-11e6-8af3-8f89116b4ba7.JPG">
+    Nashville as seen from Vanderbilt
     <img width="300" src="https://cloud.githubusercontent.com/assets/19412094/15398538/00178ae2-1db2-11e6-9afe-3b939dc02957.JPG">
+    Kirkland clock tower
 </section>
 
 </body>
