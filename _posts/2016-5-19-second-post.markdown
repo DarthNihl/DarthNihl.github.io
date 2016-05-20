@@ -22,7 +22,7 @@ Below you will notice four pictures of Vanderbilt.
 <DIV style="position: absolute; top:750px; left:200px; width:200px; height:25px">Nashville as seen from Vanderbilt</DIV>
 <DIV style="position: absolute; top:750px; left:600px; width:200px; height:25px">Kirkland clock tower</DIV>
 
-<DIV style="position: absolute; top:750px; left:600px; width:200px; height:25px"><a href="http://www.vanderbilt.edu/">Visit the Vanderbilt website for more pictures.</a></DIV>
+<DIV style="position: absolute; top:850px; left:200px; width:200px; height:25px"><a href="http://www.vanderbilt.edu/">Visit the Vanderbilt website for more pictures.</a></DIV>
 <a href="http://www.vanderbilt.edu/">Visit the Vanderbilt website for more pictures.</a>
 
 </body>
