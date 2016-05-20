@@ -10,7 +10,7 @@ categories: post
 
 Below you will notice four pictures of Vanderbilt.
 
-<IMG STYLE="position:absolute; TOP:35px; LEFT:170px; WIDTH:300px; HEIGHT:100px" SRC="https://cloud.githubusercontent.com/assets/19412094/15398515/ea4c2af6-1db1-11e6-9b0c-48a9257b21c9.JPG">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:200px; WIDTH:200px; HEIGHT:100px" SRC="https://cloud.githubusercontent.com/assets/19412094/15398515/ea4c2af6-1db1-11e6-9b0c-48a9257b21c9.JPG">
 
 <section>
     <img width="300" src="https://cloud.githubusercontent.com/assets/19412094/15398537/0008f298-1db2-11e6-880c-aaef0f31bc37.JPG">
