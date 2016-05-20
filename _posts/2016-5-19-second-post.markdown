@@ -24,5 +24,7 @@ Vanderbilt mansion-------------------------------------------Vanderbilt Campus
 
 Nashville as seen from Vanderbilt----------------------------Kirkland clock tower
 
+<a href="http://www.vanderbilt.edu/">Visit the Vanderbilt website for more pictures.</a>
+
 </body>
 </html>
