@@ -9,7 +9,14 @@ categories: post
 <body style="background-color: gold">
 
 Below you will notice four pictures of Vanderbilt.
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
