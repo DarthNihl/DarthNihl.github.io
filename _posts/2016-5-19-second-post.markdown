@@ -24,7 +24,14 @@ Below you will notice four pictures of Vanderbilt.
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <IMG STYLE="position:absolute; TOP:300px; LEFT:200px; WIDTH:300px; HEIGHT:150px" SRC="https://cloud.githubusercontent.com/assets/19412094/15398515/ea4c2af6-1db1-11e6-9b0c-48a9257b21c9.JPG">
 <IMG STYLE="position:absolute; TOP:300px; LEFT:600px; WIDTH:300px; HEIGHT:150px" SRC="https://cloud.githubusercontent.com/assets/19412094/15398537/0008f298-1db2-11e6-880c-aaef0f31bc37.JPG">
 
