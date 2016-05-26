@@ -10,22 +10,21 @@ categories: post
 <font>
 
 <a href="http://www.tate.org.uk/visit/tate-modern">Tate Modern</a>
-<a href="http://www.tate.org.uk/visit/tate-modern">Tate Modern</a>
-<a href="http://www.tate.org.uk/visit/tate-modern">Tate Modern</a>
-<a href="http://www.tate.org.uk/visit/tate-modern">Tate Modern</a>
-London Eye
-Tower of London
-British Museum
-St. Paul's Cathedral
-Churchill War rooms
-Buckingham Palace
-Trafalger Square
-Westminster Abbey
-Regent's Canal
+<a href="https://www.londoneye.com/">London Eye</a>
+<a href="http://www.hrp.org.uk/tower-of-london/">The Tower of London</a>
+<a href="http://www.britishmuseum.org/">The British Museum</a>
+<a href="https://www.stpauls.co.uk/">St. Paul's Cathedral</a>
+<a href="http://www.iwm.org.uk/visits/churchill-war-rooms">Churchill War Rooms</a>
+<a href="https://www.royal.uk/royal-residences-buckingham-palace">Buckingham Palace</a>
+<a href="https://www.london.gov.uk/about-us/our-building-and-squares/trafalgar-square">Trafalger Square</a>
+<a href="http://www.westminster-abbey.org/">Westminster Abbey</a>
+<a href="http://www.visitlondon.com/discover-london/london-areas/central/regents-canal">Regent's Canal</a>
 Waterfront
-Hampstead Heath?
-British Library
-Victoria and Albert Museum
+<a href="http://www.cityoflondon.gov.uk/things-to-do/green-spaces/hampstead-heath/Pages/default.aspx">Hampstead Heath?</a>
+<a href="http://www.bl.uk/">British Library</a>
+<a href="https://www.vam.ac.uk/">Victoria and Albert Museum</a>
+<a href="http://www.tate.org.uk/visit/tate-modern">Imperial War Museum</a>
+<a href="http://www.tate.org.uk/visit/tate-modern">Hyde Park</a>
 
 </font>
 </body>
