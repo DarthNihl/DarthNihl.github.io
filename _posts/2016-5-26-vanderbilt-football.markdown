@@ -40,7 +40,7 @@ Below you will notice four pictures related to Vanderbilt football.
 <br>
 <br>
 <IMG STYLE="position:absolute; TOP:300px; LEFT:200px; WIDTH:300px; HEIGHT:150px" SRC="https://cloud.githubusercontent.com/assets/19412094/15579720/d0f03f0c-2333-11e6-9c64-c48b7b6c02c9.jpg">
-<IMG STYLE="position:absolute; TOP:300px; LEFT:600px; WIDTH:300px; HEIGHT:150px" SRC="https://cloud.githubusercontent.com/assets/19412094/15398537/0008f298-1db2-11e6-880c-aaef0f31bc37.JPG">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:600px; WIDTH:300px; HEIGHT:150px" SRC="https://cloud.githubusercontent.com/assets/19412094/15579722/d349291c-2333-11e6-8bbf-3b4f7fe636ca.jpg">
 
 <DIV style="position: absolute; top:450px; left:200px; width:400px; height:25px">Vanderbilt's coach, Derek Mason</DIV>
 <DIV style="position: absolute; top:450px; left:600px; width:400px; height:25px">Johnny McCrary is leaving Vanderbilt after failing to secure a starting spot at quarterback</DIV>
