@@ -23,8 +23,8 @@ Waterfront
 <a href="http://www.cityoflondon.gov.uk/things-to-do/green-spaces/hampstead-heath/Pages/default.aspx">Hampstead Heath?</a>
 <a href="http://www.bl.uk/">British Library</a>
 <a href="https://www.vam.ac.uk/">Victoria and Albert Museum</a>
-<a href="http://www.tate.org.uk/visit/tate-modern">Imperial War Museum</a>
-<a href="http://www.tate.org.uk/visit/tate-modern">Hyde Park</a>
+<a href="http://www.iwm.org.uk/">Imperial War Museum</a>
+<a href="https://www.royalparks.org.uk/parks/hyde-park">Hyde Park</a>
 
 </font>
 </body>
