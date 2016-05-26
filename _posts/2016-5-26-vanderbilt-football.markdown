@@ -7,7 +7,7 @@ categories: post
 
 <html>
 <body background = "https://cloud.githubusercontent.com/assets/19412094/15580342/53c00c9e-2336-11e6-91d1-ded4cbba4f99.jpeg">
-
+<font color="white">
 Below you will notice four pictures related to Vanderbilt football.
 <br>
 <br>
@@ -52,6 +52,6 @@ Below you will notice four pictures related to Vanderbilt football.
 <DIV style="position: absolute; top:750px; left:600px; width:400px; height:25px">Go 'Dores! Go!</DIV>
 
 <DIV style="position: absolute; top:850px; left:200px; width:600px; height:25px"><a href="http://www.vucommodores.com/sports/m-footbl/vand-m-footbl-body.html">Visit the Vanderbilt Football website for more information.</a></DIV>
-
+</font>
 </body>
 </html>
