@@ -1,1 +1,29 @@
-a
+---
+layout: post
+title:  "London"
+date:   2016-05-26 11:21:29 -0400
+categories: post
+---
+
+<html>
+<body>
+<font>
+
+Tate Modern
+London Eye
+Tower of London
+British Museum
+St. Paul's Cathedral
+Churchill War rooms
+Buckingham Palace
+Trafalger Square
+Westminster Abbey
+Regent's Canal
+Waterfront
+Hampstead Heath?
+British Library
+Victoria and Albert Museum
+
+</font>
+</body>
+</html>
