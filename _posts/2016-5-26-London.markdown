@@ -9,36 +9,52 @@ categories: post
 <body>
 <font>
 
+<img src="https://cloud.githubusercontent.com/assets/19412094/15584951/d967357a-234a-11e6-841a-ced0d1b5f8f5.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
 <a href="http://www.tate.org.uk/visit/tate-modern">Tate Modern</a>
 <br>
+<img src="https://cloud.githubusercontent.com/assets/19412094/15584946/d958d50c-234a-11e6-9630-37685bd1aa0d.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
 <a href="https://www.londoneye.com/">London Eye</a>
 <br>
+<img src="https://cloud.githubusercontent.com/assets/19412094/15584952/d96b5eca-234a-11e6-967f-03f92c949ada.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
 <a href="http://www.hrp.org.uk/tower-of-london/">The Tower of London</a>
 <br>
+<img src="https://cloud.githubusercontent.com/assets/19412094/15584940/d94627e0-234a-11e6-92d9-8e87f6d2ae94.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
 <a href="http://www.britishmuseum.org/">The British Museum</a>
 <br>
+<img src="https://cloud.githubusercontent.com/assets/19412094/15584950/d9642e16-234a-11e6-8b39-bffa2ff95579.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
 <a href="https://www.stpauls.co.uk/">St. Paul's Cathedral</a>
 <br>
+<img src="https://cloud.githubusercontent.com/assets/19412094/15584945/d95753bc-234a-11e6-82ce-09dae84bc27a.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
 <a href="http://www.iwm.org.uk/visits/churchill-war-rooms">Churchill War Rooms</a>
 <br>
+<img src="https://cloud.githubusercontent.com/assets/19412094/15584943/d952e534-234a-11e6-9610-9c0e788d9332.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
 <a href="https://www.royal.uk/royal-residences-buckingham-palace">Buckingham Palace</a>
 <br>
+<img src="https://cloud.githubusercontent.com/assets/19412094/15584939/d9447e2c-234a-11e6-8bbf-d893f59e1e9e.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
 <a href="https://www.london.gov.uk/about-us/our-building-and-squares/trafalgar-square">Trafalger Square</a>
 <br>
+<img src="https://cloud.githubusercontent.com/assets/19412094/15584937/d944271a-234a-11e6-9b58-499cc3a63cb4.jpeg" alt="HTML5 Icon" style="width:128px;height:128px;">
 <a href="http://www.westminster-abbey.org/">Westminster Abbey</a>
 <br>
+<img src="https://cloud.githubusercontent.com/assets/19412094/15584949/d95fdda2-234a-11e6-8ed8-3e83587f8643.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
 <a href="http://www.visitlondon.com/discover-london/london-areas/central/regents-canal">Regent's Canal</a>
 <br>
+<img src="https://cloud.githubusercontent.com/assets/19412094/15584938/d9442e40-234a-11e6-8376-4ac50214b125.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
 Waterfront
 <br>
+<img src="https://cloud.githubusercontent.com/assets/19412094/15584944/d955fe54-234a-11e6-8a2a-76c9f7db9404.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
 <a href="http://www.cityoflondon.gov.uk/things-to-do/green-spaces/hampstead-heath/Pages/default.aspx">Hampstead Heath?</a>
 <br>
+<img src="https://cloud.githubusercontent.com/assets/19412094/15584941/d946987e-234a-11e6-9ffa-99fe4453c558.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
 <a href="http://www.bl.uk/">British Library</a>
 <br>
+<img src="https://cloud.githubusercontent.com/assets/19412094/15584942/d946dca8-234a-11e6-9ffd-351ac52c00ab.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
 <a href="https://www.vam.ac.uk/">Victoria and Albert Museum</a>
 <br>
+<img src="https://cloud.githubusercontent.com/assets/19412094/15584947/d95c4188-234a-11e6-92ef-17bfa14371c4.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
 <a href="http://www.iwm.org.uk/">Imperial War Museum</a>
 <br>
+<img src="https://cloud.githubusercontent.com/assets/19412094/15584948/d95ccfb8-234a-11e6-9cf4-d86f631bbab2.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
 <a href="https://www.royalparks.org.uk/parks/hyde-park">Hyde Park</a>
 
 </font>
