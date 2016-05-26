@@ -6,7 +6,7 @@ categories: post
 ---
 
 <html>
-<body style="background-color: black">
+<body style="background-image: https://cloud.githubusercontent.com/assets/19412094/15580342/53c00c9e-2336-11e6-91d1-ded4cbba4f99.jpeg">
 
 Below you will notice four pictures related to Vanderbilt football.
 <br>
