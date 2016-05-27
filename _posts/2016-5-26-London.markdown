@@ -56,7 +56,8 @@ Waterfront
 <br>
 <img src="https://cloud.githubusercontent.com/assets/19412094/15584948/d95ccfb8-234a-11e6-9cf4-d86f631bbab2.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
 <a href="https://www.royalparks.org.uk/parks/hyde-park">Hyde Park</a>
-
+<br>
+Kew Gardens
 </font>
 </body>
 </html>
