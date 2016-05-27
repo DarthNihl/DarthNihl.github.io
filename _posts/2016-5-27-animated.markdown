@@ -3,8 +3,8 @@
     <style>
         div
         {
-            height:1000px;
-            width:1000px;
+            height:100px;
+            width:100px;
             border:2px solid black;
         }
         div:hover
