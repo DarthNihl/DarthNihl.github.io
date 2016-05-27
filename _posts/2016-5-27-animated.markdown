@@ -5,18 +5,18 @@
         {
             height:100px;
             width:100px;
-            border:2px solid black;
+            border:2px solid blue;
         }
         div:hover
         {
-            background-color:blue;
+            background-color:red;
         }
     </style>
 </head>
 <body>
             <a href="#">
                       <div id="ab">
-                                <p> hello there </p>
+                                <p> hover to change </p>
                       </div>
             </a>
 </body>
