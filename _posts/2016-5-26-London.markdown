@@ -58,6 +58,8 @@ Waterfront
 <a href="https://www.royalparks.org.uk/parks/hyde-park">Hyde Park</a>
 <br>
 Kew Gardens
+<br>
+<a href="https://www.madametussauds.co.uk/london/en/">Madame Tussauds</a>
 </font>
 </body>
 </html>
